@@ -1,0 +1,34 @@
+.add-circle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+}
+.add {
+  color: #0057a8;
+}
+.view-more {
+  color: grey;
+  font-size: small;
+}
+.man-image {
+  margin-left: 50%;
+}
+.rev-main {
+  position: absolute;
+  margin-left: 20%;
+}
+.client-rev-title {
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  width: 50%;
+}
+.client-rev-comments {
+  width: 40%;
+  font-size: medium;
+}
+.signature {
+  margin-top: 5%;
+  height: 100px;
+}

@@ -1,0 +1,56 @@
+.banner-ad {
+  display: flex;
+  width: 100%;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+.img1 {
+  height: 110px;
+  width: 180px;
+  padding-bottom: 20px;
+  border: 1px solid rgb(190, 186, 186);
+}
+.img2 {
+  padding-top: 40px;
+  height: 35px;
+  width: 160px;
+  padding-bottom: 55px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: 1px solid rgb(190, 186, 186);
+  border-bottom: 1px solid rgb(190, 186, 186);
+  border-right: 1px solid rgb(190, 186, 186);
+}
+.img3 {
+  padding-top: 45px;
+  height: 25px;
+  width: 150px;
+  padding-bottom: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: 1px solid rgb(190, 186, 186);
+  border-bottom: 1px solid rgb(190, 186, 186);
+  border-right: 1px solid rgb(190, 186, 186);
+}
+.img4 {
+  padding-top: 20px;
+  height: 105px;
+  width: 150px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: 1px solid rgb(190, 186, 186);
+  border-bottom: 1px solid rgb(190, 186, 186);
+  border-right: 1px solid rgb(190, 186, 186);
+}
+.img5 {
+  padding-top: 30px;
+  height: 90px;
+  width: 150px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: 1px solid rgb(190, 186, 186);
+  border-bottom: 1px solid rgb(190, 186, 186);
+  border-right: 1px solid rgb(190, 186, 186);
+}

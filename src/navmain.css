@@ -1,0 +1,41 @@
+.nav-2 {
+  display: flex;
+  padding-left: 15%;
+  padding-top: 1%;
+}
+.nav-bar {
+  padding-top: 2%;
+  padding-left: 33%;
+}
+.home-nav,
+.about-nav,
+.agents-nav,
+.properties-nav,
+.blog-nav,
+.contact-nav {
+  text-decoration: none;
+  padding: 10px;
+  color: grey;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.title-body {
+  display: flex;
+}
+.title-part1 {
+  font-weight: bolder;
+  padding-top: 6%;
+  font-size: 35px;
+  color: #0057a8;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.title-part2 {
+  padding-top: 1%;
+  font-size: 40px;
+  color: #0057a8;
+}
+.title-part3 {
+  padding-top: 10%;
+  font-size: 20px;
+  font-weight: bold;
+  color: #3d3d3d;
+}

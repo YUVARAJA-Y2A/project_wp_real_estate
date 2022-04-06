@@ -1,0 +1,51 @@
+.house-foot {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.555), rgba(0, 0, 0, 0.555)),
+    url("./assets/footerimage.jpg");
+
+  height: 400px;
+  width: 100%;
+}
+.footer-home,
+.footer-about,
+.footer-agents,
+.footer-properties,
+.footer-blog,
+.footer-contact {
+  text-decoration: none;
+  padding: 10px;
+  color: whitesmoke;
+}
+
+.footer-center-div {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10%;
+}
+.footer-nav {
+  margin-top: 5%;
+  font-size: large;
+  font-weight: bold;
+}
+.brand-logo {
+  display: flex;
+}
+.logo-part1 {
+  font-weight: bolder;
+  padding-top: 6%;
+  font-size: 50px;
+  color: #0057a8;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.logo-part2 {
+  font-size: 70px;
+  color: #0057a8;
+}
+.logo-part3 {
+  padding-top: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}

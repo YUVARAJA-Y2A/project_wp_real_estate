@@ -1,0 +1,34 @@
+.footer-final-main {
+  background-color: #080a19;
+  display: flex;
+}
+.footer-final1 {
+  padding: 2%;
+  padding-left: 15%;
+  width: 50%;
+}
+.footer-final-icon1 {
+  color: whitesmoke;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 100%;
+}
+.footer-final-icon2 {
+  color: whitesmoke;
+  border: 1px solid white;
+  margin-left: 1%;
+  padding: 5px;
+  border-radius: 100%;
+}
+.footer-final2 {
+  display: flex;
+  align-items: center;
+  color: whitesmoke;
+  width: 25%;
+}
+.privacypolicy,
+.termsandconditions {
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 2%;
+}

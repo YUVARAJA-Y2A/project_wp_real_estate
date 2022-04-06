@@ -1,0 +1,141 @@
+.title-blog {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.our-blog {
+  font-size: xx-large;
+}
+.blog {
+  font-weight: bolder;
+}
+.house-images {
+  justify-content: center;
+}
+.house-img-col1,
+.house-images,
+.house-img-col2-row1,
+.house-img-col2-row2 {
+  display: flex;
+}
+.house2 {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 1),
+      rgba(70, 70, 70, 0.04)
+    ),
+    url("./assets/house2.jpg");
+  height: 420px;
+  width: 350px;
+  background-size: contain;
+}
+.house1-text-div {
+  position: absolute;
+  width: 25%;
+  padding-left: 1%;
+  padding-top: 16%;
+}
+.house2-text-div,
+.house3-text-div {
+  position: absolute;
+  width: 18%;
+  padding-left: 1%;
+  padding-top: 7%;
+}
+.house4-text-div,
+.house5-text-div {
+  position: absolute;
+  width: 15%;
+  padding-left: 1%;
+  padding-top: 5%;
+}
+.house1-title {
+  color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+}
+.house2-title,
+.house3-title,
+.house4-title,
+.house5-title {
+  color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.bottom-line {
+  margin-top: 5%;
+  margin-left: 1%;
+  border-bottom: 1px solid grey;
+  width: 50%;
+}
+.house1-date {
+  color: #0057a8;
+  font-weight: bold;
+}
+.house2-date,
+.house3-date,
+.house4-date,
+.house5-date {
+  color: #0057a8;
+  font-weight: bold;
+  font-size: small;
+}
+.house1-subject {
+  font-size: smaller;
+  color: grey;
+}
+.house1 {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 1),
+      rgba(70, 70, 70, 0.04)
+    ),
+    url("./assets/house1.webp");
+  height: 210px;
+  width: 260px;
+  background-size: contain;
+}
+
+.house2-set,
+.house3-set,
+.house4-set,
+.house5-set {
+  padding-left: 5%;
+}
+.house3 {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 1),
+      rgba(70, 70, 70, 0.04)
+    ),
+    url("./assets/house3.jpg");
+  height: 210px;
+  width: 250px;
+  background-size: contain;
+}
+
+.house4 {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 1),
+      rgba(70, 70, 70, 0.04)
+    ),
+    url("./assets/house4.jpg");
+  height: 180px;
+  width: 260px;
+  background-size: contain;
+}
+.house4-set,
+.house5-set {
+  padding-top: 5%;
+}
+.house5 {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 1),
+      rgba(70, 70, 70, 0.04)
+    ),
+    url("./assets/house5.jpg");
+  height: 180px;
+  width: 250px;
+  background-size: contain;
+}
