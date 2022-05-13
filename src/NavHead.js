@@ -1,4 +1,5 @@
 import { GoMail } from "react-icons/go";
+
 import { FiPhoneCall } from "react-icons/fi";
 import "./navhead.css";
 import {
@@ -15,7 +16,7 @@ function NavHead() {
         <div class="inner-nav-1">
           <GoMail size={20} className="icon-mail" />
           <span class="mail-id">sample@sample.com</span>
-          <FiPhoneCall class="icon-phone" />
+          <FiPhoneCall />
           <span class="phone-no">00 1234 5678</span>
         </div>
         <div class="inner-nav-2">
